@@ -8,8 +8,8 @@
 - 👯 I’m looking to collaborate on Web and Software Development Projects <br>
 - 💬 Ask me about Java, C++, PhP, React and ExpressJS <br>
 - 📫 How to reach me: 🤙 +91-7870583406 / 📬: fabiamkumar@gmail.com <br>
-- ⚡ Fun fact: ... <br>
-  <!-- - 😄 Pronouns:  -->
+<!--- ⚡ Fun fact: ... <br> 
+   - 😄 Pronouns:  -->
 
 
 
